@@ -1,1 +1,1 @@
-Comenzamos con la implementacion de Data Envers al proyecto JPA. 
+Comenzamos con la implementacion de Auditorias de entidades con Envers al proyecto JPA. 
